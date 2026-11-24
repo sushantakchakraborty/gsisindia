@@ -1,0 +1,132 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 01/11/2016 16:05
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src:url(../fonts/Flaticon.woff) format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+/*margin-left: 20px;*/
+}
+
+.flaticon-agenda44:before { content: "\f100"; }
+.flaticon-apple:before { content: "\f101"; }
+.flaticon-arrows:before { content: "\f102"; }
+.flaticon-arrows-1:before { content: "\f103"; }
+.flaticon-arrows-2:before { content: "\f104"; }
+.flaticon-arrows-3:before { content: "\f105"; }
+.flaticon-arrows-4:before { content: "\f106"; }
+.flaticon-arrows-5:before { content: "\f107"; }
+.flaticon-arrows-6:before { content: "\f108"; }
+.flaticon-arrows-7:before { content: "\f109"; }
+.flaticon-arrows-8:before { content: "\f10a"; }
+.flaticon-berry:before { content: "\f10b"; }
+.flaticon-bing-big-logo:before { content: "\f10c"; }
+.flaticon-building:before { content: "\f10d"; }
+.flaticon-business:before { content: "\f10e"; }
+.flaticon-check:before { content: "\f10f"; }
+.flaticon-cheese:before { content: "\f110"; }
+.flaticon-cheese-1:before { content: "\f111"; }
+.flaticon-close:before { content: "\f112"; }
+.flaticon-cross:before { content: "\f113"; }
+.flaticon-drink:before { content: "\f114"; }
+.flaticon-drink-1:before { content: "\f115"; }
+.flaticon-drink-2:before { content: "\f116"; }
+.flaticon-food:before { content: "\f117"; }
+.flaticon-food-1:before { content: "\f118"; }
+.flaticon-food-10:before { content: "\f119"; }
+.flaticon-food-11:before { content: "\f11a"; }
+.flaticon-food-12:before { content: "\f11b"; }
+.flaticon-food-13:before { content: "\f11c"; }
+.flaticon-food-14:before { content: "\f11d"; }
+.flaticon-food-15:before { content: "\f11e"; }
+.flaticon-food-16:before { content: "\f11f"; }
+.flaticon-food-17:before { content: "\f120"; }
+.flaticon-food-18:before { content: "\f121"; }
+.flaticon-food-19:before { content: "\f122"; }
+.flaticon-food-2:before { content: "\f123"; }
+.flaticon-food-20:before { content: "\f124"; }
+.flaticon-food-21:before { content: "\f125"; }
+.flaticon-food-22:before { content: "\f126"; }
+.flaticon-food-23:before { content: "\f127"; }
+.flaticon-food-24:before { content: "\f128"; }
+.flaticon-food-25:before { content: "\f129"; }
+.flaticon-food-26:before { content: "\f12a"; }
+.flaticon-food-27:before { content: "\f12b"; }
+.flaticon-food-28:before { content: "\f12c"; }
+.flaticon-food-29:before { content: "\f12d"; }
+.flaticon-food-3:before { content: "\f12e"; }
+.flaticon-food-30:before { content: "\f12f"; }
+.flaticon-food-31:before { content: "\f130"; }
+.flaticon-food-32:before { content: "\f131"; }
+.flaticon-food-33:before { content: "\f132"; }
+.flaticon-food-34:before { content: "\f133"; }
+.flaticon-food-35:before { content: "\f134"; }
+.flaticon-food-36:before { content: "\f135"; }
+.flaticon-food-37:before { content: "\f136"; }
+.flaticon-food-38:before { content: "\f137"; }
+.flaticon-food-39:before { content: "\f138"; }
+.flaticon-food-4:before { content: "\f139"; }
+.flaticon-food-5:before { content: "\f13a"; }
+.flaticon-food-6:before { content: "\f13b"; }
+.flaticon-food-7:before { content: "\f13c"; }
+.flaticon-food-8:before { content: "\f13d"; }
+.flaticon-food-9:before { content: "\f13e"; }
+.flaticon-fruit:before { content: "\f13f"; }
+.flaticon-fruit-1:before { content: "\f140"; }
+.flaticon-fruit-2:before { content: "\f141"; }
+.flaticon-home:before { content: "\f142"; }
+.flaticon-interface:before { content: "\f143"; }
+.flaticon-link:before { content: "\f144"; }
+.flaticon-link-1:before { content: "\f145"; }
+.flaticon-map:before { content: "\f146"; }
+.flaticon-multimedia:before { content: "\f147"; }
+.flaticon-program:before { content: "\f148"; }
+.flaticon-search:before { content: "\f149"; }
+.flaticon-search-1:before { content: "\f14a"; }
+.flaticon-shape:before { content: "\f14b"; }
+.flaticon-shapes:before { content: "\f14c"; }
+.flaticon-signs:before { content: "\f14d"; }
+.flaticon-social:before { content: "\f14e"; }
+.flaticon-social-1:before { content: "\f14f"; }
+.flaticon-social-2:before { content: "\f150"; }
+.flaticon-social-3:before { content: "\f151"; }
+.flaticon-social-4:before { content: "\f152"; }
+.flaticon-social-5:before { content: "\f153"; }
+.flaticon-social-6:before { content: "\f154"; }
+.flaticon-social-7:before { content: "\f155"; }
+.flaticon-social-8:before { content: "\f156"; }
+.flaticon-social-media:before { content: "\f157"; }
+.flaticon-social-media-1:before { content: "\f158"; }
+.flaticon-social-media-2:before { content: "\f159"; }
+.flaticon-social-media-3:before { content: "\f15a"; }
+.flaticon-social-media-4:before { content: "\f15b"; }
+.flaticon-social-media-5:before { content: "\f15c"; }
+.flaticon-social-media-6:before { content: "\f15d"; }
+.flaticon-square:before { content: "\f15e"; }
+.flaticon-symbol:before { content: "\f15f"; }
+.flaticon-symbols:before { content: "\f160"; }
+.flaticon-symbols-1:before { content: "\f161"; }
+.flaticon-symbols-2:before { content: "\f162"; }
+.flaticon-symbols-3:before { content: "\f163"; }
+.flaticon-time:before { content: "\f164"; }
+.flaticon-video:before { content: "\f165"; }
+.flaticon-web:before { content: "\f166"; }
+.flaticon-web-1:before { content: "\f167"; }
+.flaticon-zooming4:before { content: "\f168"; }

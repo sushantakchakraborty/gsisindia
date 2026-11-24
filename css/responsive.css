@@ -1,0 +1,235 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .newsletter-from h2 {
+        font-size: 25px;
+    }
+    .mainmenu ul li a {
+        padding: 10px 13px;
+    }
+	.header-area {
+    	top:117px;
+	}
+	.header_top h3 {
+		font: 22px Raleway-ExtraBold;
+	}
+	.railway_lft {
+		width:100%;
+		margin-bottom:30px;
+		padding-bottom:30px;
+		border-bottom:1px dashed #fff;
+	}
+	.railway_rht {
+		width:100%;
+		float:left;
+	}
+	.signature-food-section .owl-carousel .owl-prev {
+		top:40%;
+    	left: 0px;
+	}
+	.signature-food-section .owl-carousel .owl-next {
+		top:40%;
+    	right: 0;
+	}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 992px) and (max-width: 1080px) {
+	.header-area {
+    	top:98px;
+	}
+	
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .logo {
+        text-align: center;
+    }
+	.header_top p {
+    font: 12px Arial
+	}
+	.header_top h3 {
+		font: 15px Raleway-ExtraBold;
+		padding-top: 3px;
+	}
+    .mainmenu {
+        text-align: center;
+    }
+    .mainmenu ul li a {
+        padding: 10px 8px;
+		font-size: 13px;
+    }
+    .pricing-table-item {
+        margin-bottom: 30px;
+    }
+    .pricing-area {
+        padding-bottom: 50px;
+    }
+    .blog-meta {
+        text-align: left;
+    }
+    .blog-meta i.fa {
+        display: none;
+    }
+    .blog-meta a {
+        font-size: 12px;
+        padding: 0 6px;
+    }
+    .blog-text h3 {
+        font-size: 20px;
+    }
+    .blog-text p {
+        font-size: 14px;
+    }
+    .contact-single-info h3 {
+        font-size: 20px;
+    }
+    .contact-single-info p {
+        font-size: 13px;
+    }
+    .feature-item .col-sm-2 {
+        width: 12%;
+    }
+    .skill.pd-left-40 {
+        margin-top: 55px;
+        padding: 0;
+    }
+    .about-feature {
+        margin-top: 75px;
+    }
+	.header-area {
+    	top:81px;
+	}
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	.header_top p {
+    font: 10px Arial;
+	}
+    .navbar-toggle {
+        background: #fff none repeat scroll 0 0;
+        border-radius: 0;
+        margin: -5px 0 0;
+		float:left;
+    }
+    .navbar-toggle .icon-bar {
+        background: #000 none repeat scroll 0 0;
+        margin: 0;
+    }
+    .logo {
+        float: left;
+    }
+    .navbar-collapse {
+        background: #000 none repeat scroll 0 0;
+        margin-top: 12px;
+    }
+    .mainmenu {
+        width: 100%;
+		position: absolute;
+		right: 0;
+    }
+	.header-area {
+    	top:70px;
+	}
+	.header_top h3 {
+		font: 13px Raleway-ExtraBold;
+		padding-top: 10px;
+	}
+	.navbar-toggle {
+		margin: 70px 0 0 !important;
+	}
+	.is-sticky .navbar-toggle {
+		margin: 11px 0 0 !important;
+	}
+    .is-sticky .mainmenu ul li a {
+        color: #fff;
+    }
+	.is-sticky .navbar-nav > li {
+    	display: block;
+	}
+    .mainmenu ul li a {
+        text-align: center;
+		color:#fff;
+    }
+    .pricing-table-item {
+        margin-bottom: 30px;
+    }
+    .pricing-area {
+        padding-bottom: 50px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .latest-blog-area {
+        padding-bottom: 50px;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .footer-area .text-right {
+        text-align: center;
+    }
+    .footer-copyright {
+        margin: 0 0 10px;
+    }
+    .skill.pd-left-40 {
+        margin-top: 55px;
+        padding: 0;
+    }
+    .protfolio-menu ul li {
+        display: block;
+        margin: 0 0 10px;
+    }
+    .section-content p {
+        padding: 0;
+    }
+    .count-itme {
+        margin-bottom: 30px;
+    }
+    .counter-area {
+        padding-bottom: 50px;
+    }
+    .newsletter-from h2 {
+        font-size: 25px;
+    }
+    .about-feature {
+        margin-top: 70px;
+    }
+    .midland-hero h1 {
+        font-size: 25px;
+    }
+    .midland-hero p {
+        font-size: 14px;
+    }
+    .service-content h3 {
+        font-size: 22px;
+    }
+    .service-content p {
+        font-size: 14px;
+    }
+    .panel-title {
+        font-size: 13px;
+    }
+    a.accordion-toggle i {
+        height: 38px;
+    }
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        margin: 0 auto;
+        width: 450px;
+    }
+    .section-content p {
+        padding: 0 25px;
+    }
+
+}
+@media only screen and (max-width:480px) {
+	.header_top h3 {
+		display:none;
+	}
+	.navbar-toggle {
+		margin: 1% 0 0 !important;
+	}
+}
